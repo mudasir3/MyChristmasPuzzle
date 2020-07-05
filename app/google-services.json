@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "913953641451",
+    "project_id": "firebase-christmaspuzzle"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913953641451:android:9aa4ff90cb3f0c16",
+        "android_client_info": {
+          "package_name": "com.oldenweb.ChristmasPuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913953641451-rjujbj14oubf4poqqij88qbnl18saism.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSwhWUmR0zgrYkMLfo7aKas5E_9nSqKjU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

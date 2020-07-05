@@ -1,0 +1,27 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.2'
+
+    defaultConfig {
+        applicationId "com.oldenweb.ChristmasPuzzle"
+        minSdkVersion 14
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles 'proguard-project.txt'
+        }
+    }
+}
+
+dependencies {
+    //noinspection GradleCompatible
+    compile 'com.android.support:support-v4:23.1.0'
+    compile 'com.google.android.gms:play-services:9.0.0'
+    compile 'com.android.support:appcompat-v7:23.1.0'
+}
+apply plugin: 'com.google.gms.google-services'

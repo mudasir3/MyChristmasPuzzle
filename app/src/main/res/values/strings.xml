@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Christmas Puzzle</string>
+    <string name="config_title">OPTIONS</string>
+    <string name="btn_play">PLAY</string>
+    <string name="config_sound">SOUND</string>
+    <string name="time">Time:</string>
+    <string name="best_time">Best time :</string>
+    <string name="result_tap">Tap anywhere to continue</string>
+    <string name="completed">COMPLETED</string>
+    <string name="faq">Tap on blocks to rotate them and fold a photo</string>
+    <string name="select">swipe to select a photo</string>
+    <string name="mode">Game mode</string>
+
+</resources>
