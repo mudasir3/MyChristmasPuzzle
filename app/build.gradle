@@ -5,7 +5,7 @@ android {
     buildToolsVersion '23.0.2'
 
     defaultConfig {
-        applicationId "com.oldenweb.ChristmasPuzzle"
+        applicationId "com.mudasirmukhtar3.ChristmasPuzzle"
         minSdkVersion 14
         targetSdkVersion 19
     }
